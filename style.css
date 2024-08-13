@@ -1,0 +1,126 @@
+.html{
+    background-color: #E2E2B6;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 10px;
+}
+h2{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+position: relative;
+    margin-left: 10px;
+}
+.intro{
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 20px;
+    width: 1200px;
+    font-weight: 540;
+}
+.neue{
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 20px;
+    width: 1200px;
+    font-weight: 540;
+}
+.hope{
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 20px;
+    width: 1200px;
+    font-weight: 540;
+}
+.max{
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 20px;
+    width: 1200px;
+    font-weight: 540;
+}
+.explain{
+    text-align: center;
+    margin-top: 5px; /* Closer to the image */
+    margin-bottom: 20px; /* Less space between the descriptions */
+    padding: 5px; /* Some padding around the text */
+    border-radius: 5px; /* Rounded corners (optional) */
+    font-size: larger;
+    color: #333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.christ{
+    width: 400px; height:550px; padding-left: 550px; margin-bottom: 10px;
+}
+.self{
+    width: 400px; height:550px; padding-left: 550px;
+    display: block;
+}
+.decrip{
+    text-align: center;
+    margin-top: 5px; /* Closer to the image */
+    margin-bottom: 20px; /* Less space between the descriptions */
+    padding: 5px; /* Some padding around the text */
+    border-radius: 5px; /* Rounded corners (optional) */
+    font-size: larger;
+    color: #333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.in1915{
+    width: 400px; height:550px; padding-left: 550px; margin-bottom: 10px;
+}
+.expla{
+    text-align: center;
+    margin-top: 5px; /* Closer to the image */
+    margin-bottom: 20px; /* Less space between the descriptions */
+    padding: 5px; /* Some padding around the text */
+    border-radius: 5px; /* Rounded corners (optional) */
+    font-size: larger;
+    color: #333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.war{
+    width: 400px; height:550px; padding-left: 550px; margin-bottom: 10px;
+
+}
+.photographer{
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 20px;
+    width: 1200px;
+    font-weight: 540;
+}
+.photo{
+    width: 400px; height:550px; padding-left: 550px; margin-bottom: 10px;
+
+}
+.august {
+    text-align: center;
+    margin-top: 5px; /* Closer to the image */
+    margin-bottom: 20px; /* Less space between the descriptions */
+    padding: 5px; /* Some padding around the text */
+    border-radius: 5px; /* Rounded corners (optional) */
+    font-size: larger;
+    color: #333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.woman1{
+    width: 300px;
+    height: 500px;
+    padding-left: 300px;
+}
+.woman2{
+    width: 300px;
+    height: 500px;
+    padding-left: 200px;
+}
+.gublels{
+    width: 400px;
+    height: 500px;
+    padding-left: 250px;
+}
+.last{
+    width: 300px;
+    height: 500px;
+    padding-left: 150px;
+}
